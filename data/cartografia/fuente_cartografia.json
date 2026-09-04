@@ -1,0 +1,12 @@
+{
+  "nombre": "Cartografía Sinaloa precargada",
+  "archivo_origen": "25 SINALOA (1).zip",
+  "capa": "SECCION",
+  "registros": 3855,
+  "municipios": 20,
+  "distritos_locales": 24,
+  "distritos_federales": 7,
+  "crs_origen": "WGS 84 / UTM zone 13N (EPSG:32613)",
+  "crs_aplicacion": "WGS 84 (EPSG:4326)",
+  "nota": "Fuente cartográfica aportada por el usuario y transformada para la aplicación. La plataforma conserva la fuente y no asume una vigencia distinta a la documentada por el archivo de origen."
+}
